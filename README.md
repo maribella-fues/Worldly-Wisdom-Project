@@ -4,7 +4,7 @@ https://maribella-fues.github.io/Worldly-Wisdom-Project
 
 ![website](website.png)
 
-Code: https://colab.research.google.com/drive/1trp7NJUuFBi5-FfSYktvlWaviT1jk-NJ?usp=sharing
+Python Code: https://colab.research.google.com/drive/1trp7NJUuFBi5-FfSYktvlWaviT1jk-NJ?usp=sharing
 
 
 Goal: By analyzing UNICEF data sets, we explored the quality of education as it varies by wealth and gender across the globe.
